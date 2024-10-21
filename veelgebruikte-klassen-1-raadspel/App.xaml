@@ -1,0 +1,9 @@
+﻿<Application x:Class="veelgebruikte_klassen_1_raadspel.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:veelgebruikte_klassen_1_raadspel"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
